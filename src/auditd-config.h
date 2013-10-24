@@ -26,7 +26,9 @@
 
 #include "libaudit.h"
 #include <grp.h>
-#define CONFIG_FILE "/etc/audit/auditd.conf"
+// ugh, future TODO: make configurable via argv 
+#define CONFIG_FILE "/opt/threatstack/auditd/etc/audit/auditd.conf"
+
 #define MEGABYTE 1048576UL
 
 typedef enum { D_FOREGROUND, D_BACKGROUND } daemon_t;
