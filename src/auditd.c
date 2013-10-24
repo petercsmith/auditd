@@ -503,8 +503,12 @@ int main(int argc, char *argv[])
 	struct ev_signal sigchld_watcher;
 
 	/* Get params && set mode */
-	while ((c = getopt(argc, argv, "flns:")) != -1) {
+	while ((c = getopt(argc, argv, "flns:p:")) != -1) {
 		switch (c) {
+    case 'p':
+      /* configurable pidfile */
+      pidfile  = optarg;
+      break;
 		case 'f':
 			opt_foreground = 1;
 			break;
