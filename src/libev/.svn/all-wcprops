@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev
+END
+ev_select.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev_select.c
+END
+ev.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev.c
+END
+ev_vars.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev_vars.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/README
+END
+ev.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev.h
+END
+libev.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/libev.m4
+END
+ev_poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev_poll.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/event.c
+END
+ev_epoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev_epoll.c
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/event.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/Makefile.am
+END
+ev_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/libev/ev_wrap.h
+END

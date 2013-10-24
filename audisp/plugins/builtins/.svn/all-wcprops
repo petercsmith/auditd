@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/builtins
+END
+syslog.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/builtins/syslog.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/builtins/Makefile.am
+END
+af_unix.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/builtins/af_unix.conf
+END

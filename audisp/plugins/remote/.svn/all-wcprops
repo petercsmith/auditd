@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote
+END
+au-remote.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/au-remote.conf
+END
+audisp-remote.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/audisp-remote.conf
+END
+remote-fgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/remote-fgets.c
+END
+test-queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/test-queue.c
+END
+audisp-remote.8
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/audisp-remote.8
+END
+remote-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/remote-config.h
+END
+audisp-remote.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/audisp-remote.conf.5
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/queue.c
+END
+notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/notes.txt
+END
+remote-fgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/remote-fgets.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/Makefile.am
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/queue.h
+END
+audisp-remote.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/audisp-remote.c
+END
+remote-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/remote/remote-config.c
+END

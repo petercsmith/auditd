@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt
+END
+auvirt-list.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt/auvirt-list.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt/Makefile.am
+END
+auvirt-list.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt/auvirt-list.h
+END
+auvirt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt/auvirt.c
+END
+auvirt.8
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/tools/auvirt/auvirt.8
+END

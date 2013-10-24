@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src
+END
+ausearch-time.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-time.h
+END
+ausearch-lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-lookup.c
+END
+ausearch-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-parse.c
+END
+auditd-sendmail.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-sendmail.c
+END
+ausearch-report.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-report.c
+END
+auditd-dispatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-dispatch.c
+END
+ausearch-lookup.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-lookup.h
+END
+ausearch-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-parse.h
+END
+auditctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditctl.c
+END
+auditd-dispatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-dispatch.h
+END
+auditd-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-config.c
+END
+ausearch-lol.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-lol.c
+END
+auditd-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-config.h
+END
+aureport-scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport-scan.c
+END
+ausearch-lol.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-lol.h
+END
+ausearch-options.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-options.c
+END
+autrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/autrace.c
+END
+ausearch-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-common.h
+END
+aureport-scan.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport-scan.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/Makefile.am
+END
+ausearch-nvpair.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-nvpair.c
+END
+ausearch-options.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-options.h
+END
+auditd-event.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-event.c
+END
+aureport-options.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport-options.c
+END
+ausearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch.c
+END
+ausearch-nvpair.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-nvpair.h
+END
+auditctl-llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditctl-llist.c
+END
+auditd-event.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-event.h
+END
+aureport-options.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport-options.h
+END
+aureport-output.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport-output.c
+END
+ausearch-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-string.c
+END
+aureport.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/aureport.c
+END
+ausearch-avc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-avc.c
+END
+auditctl-llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditctl-llist.h
+END
+auditd-reconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-reconfig.c
+END
+ausearch-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-string.h
+END
+auditd-listen.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-listen.c
+END
+ausearch-avc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-avc.h
+END
+auditd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd.c
+END
+auditd-listen.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/auditd-listen.h
+END
+ausearch-llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-llist.c
+END
+ausearch-int.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-int.c
+END
+ausearch-llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-llist.h
+END
+ausearch-match.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-match.c
+END
+ausearch-time.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-time.c
+END
+ausearch-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/ausearch-int.h
+END
+delete_all.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/src/delete_all.c
+END

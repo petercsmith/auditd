@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp
+END
+audispd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd.c
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/queue.h
+END
+audispd-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-config.c
+END
+audispd-pconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-pconfig.c
+END
+audispd-llist.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-llist.c
+END
+audispd-builtins.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-builtins.c
+END
+audispd-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-config.h
+END
+audispd-pconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-pconfig.h
+END
+audispd-llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-llist.h
+END
+queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/queue.c
+END
+audispd-builtins.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/audispd-builtins.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/Makefile.am
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d
+END
+libaudit.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/libaudit.conf
+END
+auditd.restart
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.restart
+END
+auditd.stop
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.stop
+END
+auditd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.conf
+END
+audit.rules
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/audit.rules
+END
+auditd.condrestart
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.condrestart
+END
+auditd.rotate
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.rotate
+END
+auditd.service
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.service
+END
+auditd.resume
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.resume
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/Makefile.am
+END
+augenrules
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/augenrules
+END
+auditd.cron
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.cron
+END
+auditd.init
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.init
+END
+auditd.sysconfig
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/auditd.sysconfig
+END
+audispd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/init.d/audispd.conf
+END

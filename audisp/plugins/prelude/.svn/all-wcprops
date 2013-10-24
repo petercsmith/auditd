@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude
+END
+au-prelude.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/au-prelude.conf
+END
+audisp-prelude.conf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-prelude.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/Makefile.am
+END
+audisp-prelude.8
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-prelude.8
+END
+prelude-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/prelude-config.h
+END
+audisp-prelude.conf.5
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-prelude.conf.5
+END
+audisp-int.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-int.c
+END
+audisp-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-int.h
+END
+audisp-prelude.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/audisp-prelude.c
+END
+prelude-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/audisp/plugins/prelude/prelude-config.c
+END

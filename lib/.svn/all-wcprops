@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib
+END
+errormsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/errormsg.h
+END
+s390_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/s390_table.h
+END
+optab.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/optab.h
+END
+audit_logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/audit_logging.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/private.h
+END
+ia64_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/ia64_table.h
+END
+fieldtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/fieldtab.h
+END
+lookup_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/lookup_table.c
+END
+msg_typetab.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/msg_typetab.h
+END
+ftypetab.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/ftypetab.h
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/message.c
+END
+errtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/errtab.h
+END
+libaudit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/libaudit.c
+END
+s390x_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/s390x_table.h
+END
+libaudit.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/libaudit.h
+END
+armeb_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/armeb_table.h
+END
+gen_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/gen_tables.c
+END
+netlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/netlink.c
+END
+aarch64_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/aarch64_table.h
+END
+flagtab.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/flagtab.h
+END
+i386_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/i386_table.h
+END
+gen_tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/gen_tables.h
+END
+actiontab.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/actiontab.h
+END
+x86_64_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/x86_64_table.h
+END
+syscall-update.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/syscall-update.txt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/Makefile.am
+END
+dso.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/dso.h
+END
+ppc_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/ppc_table.h
+END
+machinetab.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/machinetab.h
+END
+deprecated.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/deprecated.c
+END
+alpha_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/audit/!svn/ver/877/tags/audit-2.3.2/lib/alpha_table.h
+END
