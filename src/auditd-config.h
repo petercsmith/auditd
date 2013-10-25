@@ -26,8 +26,8 @@
 
 #include "libaudit.h"
 #include <grp.h>
-// ugh, future TODO: make configurable via argv 
-#define CONFIG_FILE "/opt/threatstack/auditd/etc/audit/auditd.conf"
+// ugh, future TODO: make configurable via argv
+#define CONFIG_FILE "/opt/threatstack/etc/audit/auditd.conf"
 
 #define MEGABYTE 1048576UL
 
