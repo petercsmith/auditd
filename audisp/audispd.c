@@ -51,8 +51,10 @@ static daemon_conf_t daemon_config;
 static conf_llist plugin_conf;
 static int audit_fd;
 static pthread_t inbound_thread;
-static const char *config_file = "/etc/audisp/audispd.conf";
-static const char *plugin_dir =  "/etc/audisp/plugins.d/";
+
+/* XXX You have GOT to be kidding me. */
+static const char *config_file = "/opt/threatstack/etc/audisp/audispd.conf";
+static const char *plugin_dir =  "/opt/threatstack/etc/audisp/plugins.d/";
 
 /* Local function prototypes */
 static void signal_plugins(int sig);
