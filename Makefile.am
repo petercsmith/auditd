@@ -21,8 +21,7 @@
 #   Rickard E. (Rik) Faith <faith@redhat.com>
 #
 
-SUBDIRS = lib auparse src/mt src/libev src audisp tools bindings init.d \
-	docs
+SUBDIRS = lib auparse src
 if HAVE_PYTHON
 SUBDIRS += swig
 endif
