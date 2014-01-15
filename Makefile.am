@@ -21,15 +21,10 @@
 #   Rickard E. (Rik) Faith <faith@redhat.com>
 #
 
-SUBDIRS = lib auparse src
+SUBDIRS = lib src
 if HAVE_PYTHON
 SUBDIRS += swig
 endif
-EXTRA_DIST = ChangeLog AUTHORS NEWS README INSTALL audit.spec \
-	contrib/capp.rules contrib/nispom.rules contrib/lspp.rules \
-	contrib/stig.rules contrib/skeleton.c contrib/avc_snap \
-	contrib/plugin/Makefile contrib/plugin/audisp-example.c \
-	contrib/plugin/audisp-example.conf
 CONFIG_CLEAN_FILES = debug*.list config/*
 
 clean-generic:
