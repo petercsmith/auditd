@@ -602,7 +602,7 @@ int audit_add_rule_data(int fd, struct audit_rule_data *rule,
 {
 	int rc;
 
-	if (flags == AUDIT_FILTER_ENTRY) {
+	if (flags == AUDIT_FILTER_ENTRY && action != AUDIT_NEVER) {
 		audit_msg(LOG_WARNING, "Use of entry filter is deprecated");
 		return -2;
 	}

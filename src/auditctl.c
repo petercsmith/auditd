@@ -214,7 +214,7 @@ static int audit_rule_setup(char *opt, int *filter, int *act, int lineno)
 		return 2;
 
 	/* Consolidate rules on exit filter */
-	if (*filter == AUDIT_FILTER_ENTRY) {
+	if (*filter == AUDIT_FILTER_ENTRY && *act != AUDIT_NEVER) {
 		*filter = AUDIT_FILTER_EXIT;
 		fprintf(stderr,
 		    "Warning - entry rules deprecated, changing to exit rule");
